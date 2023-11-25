@@ -1,0 +1,12 @@
+.nav-pills .nav-item .active {
+    background-color: red; /* Replace 'yourColor' with the desired color code */
+    color: rgb(255, 255, 255); /* Replace 'yourTextColor' with the desired text color code */
+}
+
+.nav-pills .nav-item a{
+    color: rgb(0, 0, 0); /* Replace 'yourTextColor' with the desired text color code */
+}
+
+body {
+background-color: rgb(255, 255, 255);
+}
